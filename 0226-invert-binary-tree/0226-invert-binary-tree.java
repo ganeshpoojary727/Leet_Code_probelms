@@ -22,7 +22,6 @@ class Solution {
         TreeNode temp=root.right;
         root.right=root.left;
         root.left=temp;
-        temp=root;
         return root;
     }
 }
