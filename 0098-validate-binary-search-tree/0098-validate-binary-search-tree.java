@@ -16,7 +16,6 @@
 class Solution {
     TreeNode prev=null;
     public boolean isValidBST(TreeNode root) {
-        if(root==null)return true;
         return inorder(root);   
     }
     public boolean inorder(TreeNode node){
