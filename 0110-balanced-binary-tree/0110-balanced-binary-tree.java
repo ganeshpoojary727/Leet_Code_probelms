@@ -24,10 +24,10 @@ class Solution {
        if(node==null )return 0;
        int left= postorder(node.left);
        int right=postorder(node.right);
-       int height=Math.max(left,right)+1;
         if(Math.abs(left-right)>1){
             isTrue=false;
         }
+        int height=Math.max(left,right)+1;
         return height;
 }
 }
