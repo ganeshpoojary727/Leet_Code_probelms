@@ -7,16 +7,19 @@ Daily DSA grind
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0145-binary-tree-postorder-traversal](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0145-binary-tree-postorder-traversal](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0145-binary-tree-postorder-traversal](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,4 +40,8 @@ Daily DSA grind
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
