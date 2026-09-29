@@ -10,6 +10,7 @@ Daily DSA grind
 | [0145-binary-tree-postorder-traversal](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0337-house-robber-iii](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -18,6 +19,7 @@ Daily DSA grind
 | [0145-binary-tree-postorder-traversal](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0337-house-robber-iii](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +28,7 @@ Daily DSA grind
 | [0145-binary-tree-postorder-traversal](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0337-house-robber-iii](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,4 +56,12 @@ Daily DSA grind
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
