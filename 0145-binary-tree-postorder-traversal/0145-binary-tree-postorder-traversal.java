@@ -21,8 +21,8 @@ class Solution {
     }
     public void postorder(TreeNode root){
          if(root==null)return;
-        postorderTraversal(root.left);
-        postorderTraversal(root.right);
+        postorder(root.left);
+        postorder(root.right);
         list.add(root.val);
     }
 }
