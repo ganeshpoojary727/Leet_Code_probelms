@@ -11,6 +11,7 @@ Daily DSA grind
 | [0337-house-robber-iii](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,6 +21,7 @@ Daily DSA grind
 | [0337-house-robber-iii](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +31,7 @@ Daily DSA grind
 | [0337-house-robber-iii](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,8 +63,13 @@ Daily DSA grind
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1110-delete-nodes-and-return-forest](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 <!---LeetCode Topics End-->
