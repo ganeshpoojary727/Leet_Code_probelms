@@ -12,6 +12,7 @@ Daily DSA grind
 | [0543-diameter-of-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,6 +23,7 @@ Daily DSA grind
 | [0543-diameter-of-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +34,7 @@ Daily DSA grind
 | [0543-diameter-of-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,8 +71,10 @@ Daily DSA grind
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1110-delete-nodes-and-return-forest](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
 <!---LeetCode Topics End-->
