@@ -20,15 +20,15 @@ class Solution {
         for(int value:to_delete){
             delete_set.add(value);
         }
-        if(postorder(root)!=null){
+        if(dfs(root)!=null){
             forest.add(root);
         }
         return forest;
     }
-    private TreeNode postorder(TreeNode root){
+    private TreeNode dfs(TreeNode root){
         if(root==null)return null;
-        root.left=postorder(root.left);
-        root.right=postorder(root.right);
+        root.left=dfs(root.left);
+        root.right=dfs(root.right);
         if(delete_set.contains(root.val)){
             if(root.left!=null){
                 forest.add(root.left);
