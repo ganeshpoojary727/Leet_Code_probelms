@@ -10,6 +10,7 @@ Daily DSA grind
 | [0145-binary-tree-postorder-traversal](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0337-house-robber-iii](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -23,6 +24,7 @@ Daily DSA grind
 | [0145-binary-tree-postorder-traversal](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0337-house-robber-iii](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -36,6 +38,7 @@ Daily DSA grind
 | [0145-binary-tree-postorder-traversal](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0337-house-robber-iii](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -76,6 +79,7 @@ Daily DSA grind
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
 ## Array
@@ -97,4 +101,12 @@ Daily DSA grind
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
