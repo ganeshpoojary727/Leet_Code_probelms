@@ -14,6 +14,7 @@ Daily DSA grind
 | [0337-house-robber-iii](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0652-find-duplicate-subtrees](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
@@ -29,6 +30,7 @@ Daily DSA grind
 | [0337-house-robber-iii](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0652-find-duplicate-subtrees](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
@@ -44,6 +46,7 @@ Daily DSA grind
 | [0337-house-robber-iii](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0652-find-duplicate-subtrees](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
@@ -77,6 +80,7 @@ Daily DSA grind
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0652-find-duplicate-subtrees](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 ## Breadth-First Search
