@@ -100,6 +100,7 @@ Daily DSA grind
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0200-number-of-islands](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0200-number-of-islands/) | Medium |
+| [0289-game-of-life](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0289-game-of-life/) | Medium |
 | [0733-flood-fill](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0733-flood-fill/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1110-delete-nodes-and-return-forest](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
@@ -138,6 +139,7 @@ Daily DSA grind
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0200-number-of-islands/) | Medium |
+| [0289-game-of-life](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0289-game-of-life/) | Medium |
 | [0733-flood-fill](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0733-flood-fill/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -148,4 +150,8 @@ Daily DSA grind
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0289-game-of-life](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0289-game-of-life/) | Medium |
 <!---LeetCode Topics End-->
