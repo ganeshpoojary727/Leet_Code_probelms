@@ -60,6 +60,7 @@ Daily DSA grind
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0088-merge-sorted-array/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -100,6 +101,7 @@ Daily DSA grind
 | [0088-merge-sorted-array](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0200-number-of-islands](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0733-flood-fill/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1110-delete-nodes-and-return-forest](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
 ## Binary Search Tree
@@ -145,4 +147,5 @@ Daily DSA grind
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0088-merge-sorted-array/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
