@@ -81,6 +81,7 @@ Daily DSA grind
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0856-score-of-parentheses](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0856-score-of-parentheses/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +125,7 @@ Daily DSA grind
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0856-score-of-parentheses](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0856-score-of-parentheses/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,4 +159,8 @@ Daily DSA grind
 | ------- | ------- |
 | [0289-game-of-life](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0289-game-of-life/) | Medium |
 | [0498-diagonal-traverse](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0498-diagonal-traverse/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0856-score-of-parentheses](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0856-score-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
