@@ -101,6 +101,7 @@ Daily DSA grind
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0200-number-of-islands](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0200-number-of-islands/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0289-game-of-life](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0289-game-of-life/) | Medium |
 | [0498-diagonal-traverse](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0498-diagonal-traverse/) | Medium |
 | [0733-flood-fill](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0733-flood-fill/) | Easy |
@@ -163,4 +164,8 @@ Daily DSA grind
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0856-score-of-parentheses](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0856-score-of-parentheses/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
