@@ -60,6 +60,7 @@ Daily DSA grind
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0088-merge-sorted-array/) | Easy |
+| [0845-longest-mountain-in-array](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Brainteaser
@@ -71,6 +72,7 @@ Daily DSA grind
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0337-house-robber-iii](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0337-house-robber-iii/) | Medium |
+| [0845-longest-mountain-in-array](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0845-longest-mountain-in-array/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +107,7 @@ Daily DSA grind
 | [0289-game-of-life](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0289-game-of-life/) | Medium |
 | [0498-diagonal-traverse](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0498-diagonal-traverse/) | Medium |
 | [0733-flood-fill](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0733-flood-fill/) | Easy |
+| [0845-longest-mountain-in-array](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1110-delete-nodes-and-return-forest](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
@@ -168,4 +171,8 @@ Daily DSA grind
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0238-product-of-array-except-self/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0845-longest-mountain-in-array](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0845-longest-mountain-in-array/) | Medium |
 <!---LeetCode Topics End-->
