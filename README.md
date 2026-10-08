@@ -130,6 +130,7 @@ Daily DSA grind
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0856-score-of-parentheses](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0856-score-of-parentheses/) | Medium |
+| [2483-minimum-penalty-for-a-shop](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +172,7 @@ Daily DSA grind
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0238-product-of-array-except-self/) | Medium |
+| [2483-minimum-penalty-for-a-shop](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
