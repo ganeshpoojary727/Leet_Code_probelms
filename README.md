@@ -56,6 +56,7 @@ Daily DSA grind
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0067-add-binary/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -130,6 +131,7 @@ Daily DSA grind
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0067-add-binary/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0856-score-of-parentheses](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0856-score-of-parentheses/) | Medium |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
@@ -164,6 +166,7 @@ Daily DSA grind
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0067-add-binary/) | Easy |
 | [0289-game-of-life](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0289-game-of-life/) | Medium |
 | [0498-diagonal-traverse](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0498-diagonal-traverse/) | Medium |
 ## Bracket Sequences
@@ -179,4 +182,8 @@ Daily DSA grind
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0845-longest-mountain-in-array](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0845-longest-mountain-in-array/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
