@@ -55,6 +55,7 @@ Daily DSA grind
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0066-plus-one/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -101,6 +102,7 @@ Daily DSA grind
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0200-number-of-islands](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0200-number-of-islands/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0238-product-of-array-except-self/) | Medium |
