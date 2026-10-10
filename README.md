@@ -113,11 +113,13 @@ Daily DSA grind
 | [0845-longest-mountain-in-array](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1110-delete-nodes-and-return-forest](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,6 +165,7 @@ Daily DSA grind
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,4 +189,12 @@ Daily DSA grind
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0067-add-binary/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 <!---LeetCode Topics End-->
