@@ -115,6 +115,7 @@ Daily DSA grind
 | [1110-delete-nodes-and-return-forest](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,6 +186,7 @@ Daily DSA grind
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0845-longest-mountain-in-array](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0845-longest-mountain-in-array/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
