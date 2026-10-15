@@ -92,6 +92,7 @@ Daily DSA grind
 | [0652-find-duplicate-subtrees](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +117,7 @@ Daily DSA grind
 | [2333-minimum-sum-of-squared-difference](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,4 +201,12 @@ Daily DSA grind
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
