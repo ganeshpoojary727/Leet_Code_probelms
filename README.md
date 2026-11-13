@@ -211,4 +211,8 @@ Daily DSA grind
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0182-duplicate-emails](https://github.com/ganeshpoojary727/Leet_Code_probelms/tree/main/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
